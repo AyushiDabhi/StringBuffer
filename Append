@@ -1,0 +1,10 @@
+public class append {
+    
+    public static void main(String args[])
+    {
+        StringBuffer b=new StringBuffer("This is my java ");
+        System.out.println(b.append("code"));
+        
+    }
+}
+
