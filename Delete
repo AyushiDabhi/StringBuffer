@@ -1,0 +1,9 @@
+public class delete {
+    
+    public static void main(String args[])
+    {
+        StringBuffer b=new StringBuffer("This is my java code");
+        System.out.println(b.delete(8,13));
+        
+    }
+}
